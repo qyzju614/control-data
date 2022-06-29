@@ -9,6 +9,7 @@ import (
 	v1 "github.com/openfaas/faas-netes/pkg/client/informers/externalversions/openfaas/v1"
 	"github.com/openfaas/faas-netes/pkg/config"
 	"github.com/openfaas/faas-netes/pkg/k8s"
+	//"control-data/k8s"
 	"github.com/openfaas/faas-netes/pkg/signals"
 	providertypes "github.com/openfaas/faas-provider/types"
 	kubeinformers "k8s.io/client-go/informers"
